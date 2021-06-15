@@ -22,7 +22,7 @@ The two audio DAC hats are also used [**here**](https://github.com/TobiasVanDyk/
 
 All the modelling variations/customisation were made using [**OpenSCAD**](https://openscad.org/) and [**TinkerCAD**](https://www.tinkercad.com/).
 
-The cases were printed using PLA (no after-print finishing) using a [**Creality CR20 Pro 3D-printer**](https://www.creality3dofficial.com/products/creality-cr-20-pro-3d-printer).
+The cases were printed using PLA (with no after-print finishing) using a [**Creality CR-20 Pro 3D-printer**](https://www.creality3dofficial.com/products/creality-cr-20-pro-3d-printer).
 
 <p align="left">
 <img src="images/case2.jpg" width="350" />  
