@@ -5,8 +5,11 @@
 </p>
 
 Two fan-cooled Raspberry Pi 4B cases with two different audio DAC hats, had been 3d-printed. The cases, fan covers, and honeycomb mesh patterns, are sourced from:
+
 [**Fan Grill Covers**](https://www.thingiverse.com/thing:2802474) - Creative Commons - Attribution - Non-Commercial - Share Alikelicense.
-[**Honeycomb mesh**](https://www.thingiverse.com/thing:1701435) - GNU - GPL license and CC:
+
+[**Honeycomb mesh**](https://www.thingiverse.com/thing:1701435) - GNU - GPL license and CC.
+
 [**Raspberry Pi 4 Case**](https://www.thingiverse.com/thing:4859828) - Case.stl - Creative Commons with Attribution license.
 
 The RPi4 case above had been modified (BlankCase.stl) so that (allmost) any DAC hat can be fitted. This was used, after drilling the three extra holes, for the second DAC case. The first DAC case fitted the other DAC hat. Additional openings had also been added and the top covers modified.
