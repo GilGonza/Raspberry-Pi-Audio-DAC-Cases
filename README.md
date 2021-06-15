@@ -13,9 +13,9 @@ The RPi4 case above had been modified (BlankCase.stl) so that (allmost) any DAC 
 
 The [**PCM5122 PiFi DAC+**](https://www.seeedstudio.com/Raspberry-pi-B-2B-HIFI-DAC-p-2801.html) is an inexpensive substitute for the HiFi Berry Pi DAC+ Hat and can be configured in exactly the same way - replace the line dtparam=audio=on from /boot/config.txt if with dtoverlay=hifiberry-dacplus.
 
-The other DAC is an [**ESS ES9023**]http://www.suptronics.com/miniPCkits/x900.html) Sabre 24-bit/192kHz DAC and is configured by replacing the line dtparam=audio=on from /boot/config.txt if with dtoverlay=hifiberry-dac. 
+The other DAC is an [**ESS ES9023**](http://www.suptronics.com/miniPCkits/x900.html) Sabre 24-bit/192kHz DAC and is configured by replacing the line dtparam=audio=on from /boot/config.txt if with dtoverlay=hifiberry-dac. 
 
-The two audio DAC hats are also used here(https://github.com/TobiasVanDyk/Teensy4-USB-Audio-DAC-and-Volume-Control) and  [**here**](https://github.com/TobiasVanDyk/Raspberry-Pi-PC-PSU-Desktop-Computer-with-a-Hard-Disk-Drive-and-Fan-and-Switch/edit/master/Readme.md) (at the very bottom).
+The two audio DAC hats are also used [**here**](https://github.com/TobiasVanDyk/Teensy4-USB-Audio-DAC-and-Volume-Control) and  [**here**](https://github.com/TobiasVanDyk/Raspberry-Pi-PC-PSU-Desktop-Computer-with-a-Hard-Disk-Drive-and-Fan-and-Switch/edit/master/Readme.md) (at the very bottom).
 
 All the modelling variations/customisation were made using [**OpenSCAD**](https://openscad.org/) and [**TinkerCAD**](https://www.tinkercad.com/).
 
