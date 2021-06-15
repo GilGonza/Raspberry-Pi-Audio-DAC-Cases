@@ -10,9 +10,9 @@ Two fan-cooled Raspberry Pi 4B cases with two different audio DAC hats, had been
 
 [**Honeycomb mesh**](https://www.thingiverse.com/thing:1701435) - GNU - GPL license and CC.
 
-[**Raspberry Pi 4 Case**](https://www.thingiverse.com/thing:4859828) - [Case.stl](model/Case.stl) - Creative Commons with Attribution license.
+[**Raspberry Pi 4 Case**](https://www.thingiverse.com/thing:4859828) - [**Case**](model/Case.stl) - Creative Commons with Attribution license.
 
-The RPi4 case above had been modified [**1**](model/Case1.stl) [**2**](model/BlankCase.stl) so that (allmost) any DAC hat can be fitted. This was used, after drilling the three extra holes, for the second PCM5122 DAC. The first DAC case housed the ESS DAC without any modifications. Additional openings had also been added and the top covers modified.
+The RPi4 case above had been modified [**1**](model/Case1.stl) and [**2**](model/BlankCase.stl) so that (allmost) any DAC hat can be fitted. This was used, after drilling the three extra holes, for the second PCM5122 DAC. The first DAC case housed the ESS DAC without any modifications. Additional openings had also been added and the top covers modified.
 
 The [**PCM5122 PiFi DAC+**](https://www.seeedstudio.com/Raspberry-pi-B-2B-HIFI-DAC-p-2801.html) is an inexpensive substitute for the HiFi Berry Pi DAC+ Hat and can be configured in exactly the same way - replace the line dtparam=audio=on from /boot/config.txt if with dtoverlay=hifiberry-dacplus.
 
