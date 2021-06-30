@@ -6,6 +6,6 @@ This is the most musically sounding preamp I have ever built. The photograph sho
 
 <p align="left">
 <img src="DSelfPreamp1.jpg" width="350" />  
-<img src="DSelfPreamp1.jpg" width="350" />    
+<img src="DSelfPreamp2.jpg" width="350" />    
 </p>
 	
