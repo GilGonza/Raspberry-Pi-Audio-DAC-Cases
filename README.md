@@ -24,7 +24,7 @@ All the modelling variations/customisation were made using [**OpenSCAD**](https:
 
 The cases were printed using PLA (with no after-print finishing) using a [**Creality CR-20 Pro 3D-printer**](https://www.creality3dofficial.com/products/creality-cr-20-pro-3d-printer).
 
-The two DAC's were tested using my favourite preamp: [**1976 November Wireless World An Advanced Preamplifier Douglas Self**](DougSelf1976Preamp)
+The two DAC's were tested using my all-time favourite preamp: [**1976 November Wireless World An Advanced Preamplifier by Douglas Self**](DougSelf1976Preamp)
 
 <p align="left">
 <img src="images/case2.jpg" width="350" />  
