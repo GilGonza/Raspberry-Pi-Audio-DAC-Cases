@@ -24,7 +24,7 @@ All the modelling variations/customisation were made using [**OpenSCAD**](https:
 
 The cases were printed using PLA (with no post-print finishing) using a [**Creality CR-20 Pro 3D-printer**](https://www.creality3dofficial.com/products/creality-cr-20-pro-3d-printer) <img src="images/CR-20 Pro - Unboxing and Printing Test.jpg" width="16" height="16"/>
 
-The two DAC's were tested using a classic 1970's discrete transistor op-amp design: [**1976 November Wireless World An Advanced Preamplifier by Douglas Self**](DougSelf1976Preamp). 
+The two DAC's were tested using a classic 1970's discrete transistor op-amp design: [**1976 November Wireless World An Advanced Preamplifier by Douglas Self**](DougSelf1976Preamp) <img src="DougSelf1976Preamp/DSelfPreamp.jpg" width="16" height="16"/> <img src="DougSelf1976Preamp/DSelfPreamp1.jpg" width="16" height="16"/>
 <p align="left">
 <img src="images/case2.jpg" width="350" />  
 <img src="images/case3.jpg" width="350" />    
