@@ -1,7 +1,7 @@
 # Raspberry-Pi-Audio-DAC-Cases
 
 <p align="left">
-<img src="images/case1.jpg" width="290" />  
+<img src="images/case1.jpg" width="285" />  
 <img src="images/case3.jpg" width="300" />   
 </p>
 
