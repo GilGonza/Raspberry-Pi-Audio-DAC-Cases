@@ -30,8 +30,8 @@ The two DAC's were tested using a classic 1970's discrete transistor op-amp desi
 
 <p align="left">
 <img src="images/case2.jpg" width="250" />  
-<img src="images/case4.jpg" width="190" />  
-<img src="images/case5.jpg" width="240" />  
+<img src="images/case4.jpg" width="180" />  
+<img src="images/case5.jpg" width="235" />  
 </p>
 
 <p align="left">
