@@ -1,7 +1,8 @@
 # Raspberry-Pi-Audio-DAC-Cases
 
 <p align="left">
-<img src="images/case1.jpg" width="500" />  
+<img src="images/case1.jpg" width="300" />  
+<img src="images/case3.jpg" width="300" />   
 </p>
 
 Two fan-cooled Raspberry Pi 4B cases with two different audio DAC hats, had been 3d-printed. The cases, fan covers, and honeycomb mesh patterns, are sourced from:
@@ -26,11 +27,11 @@ The cases were printed using PLA (with no post-print finishing) using a [**Creal
 
 The two DAC's were tested using a classic 1970's discrete transistor op-amp design:<br>
 [**1976 November Wireless World An Advanced Preamplifier by Douglas Self**](DougSelf1976Preamp) <img src="DougSelf1976Preamp/DSelfPreamp.jpg" width="16" height="16"/> <img src="DougSelf1976Preamp/DSelfPreamp1.jpg" width="16" height="16"/><br>
+
 <p align="left">
-<img src="images/case2.jpg" width="350" />  
-<img src="images/case3.jpg" width="350" />    
-<img src="images/case4.jpg" width="350" />  
-<img src="images/case5.jpg" width="350" />  
+<img src="images/case2.jpg" width="250" />  
+<img src="images/case4.jpg" width="200" />  
+<img src="images/case5.jpg" width="250" />  
 </p>
 
 <p align="left">
