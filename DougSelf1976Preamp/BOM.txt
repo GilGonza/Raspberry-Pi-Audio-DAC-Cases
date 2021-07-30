@@ -6,7 +6,9 @@ Tr10 11 12 19 20 21  are MPSA56 PNP
 MPSA56 x 12
 MPSA06 x 12
 BCY71 x 12
----------------------
+Note: MPSA06 and MPSA56 are still manufactured
+BCY71 can be substitued with BC560C
+-----------------------------------------------
 220 x 2
 330 x 4
 560 x 2
@@ -28,9 +30,9 @@ BCY71 x 12
 270k x 4
 820k x 2
 -----------------
-25k dual log x 2
-25k dual lin
-100k dual lin
+25k dual log x 4
+25k dual lin x 2
+100k dual lin x 2
 -----------------
 15pF x 2
 30pF x 2
@@ -44,6 +46,6 @@ BCY71 x 12
 470n x 2
 3uF x 2
 22uF 16v electrolytic x 2
--------------------
+--------------------------
 
 
