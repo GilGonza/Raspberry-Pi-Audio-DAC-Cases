@@ -5,10 +5,13 @@ Tr7  8  9  16 17 18  are MPSA06 NPN
 Tr10 11 12 19 20 21  are MPSA56 PNP
 MPSA56 x 12
 MPSA06 x 12
-BCY71 x 12
-Note: MPSA06 and MPSA56 are still manufactured
-BCY71 can be substitued with BC560C
------------------------------------------------
+BCY71 (BC560C) x 12
+Note: 
+1. MPSA06 and MPSA56 are still manufactured
+2. BCY71 can be substituted with BC560C
+3. For Disc Imput Amp add BCY71 (BC560C) x 6 
+   And resistors/capacitors as per circuit diagram
+--------------------------------------------------------
 220 x 2
 330 x 4
 560 x 2
