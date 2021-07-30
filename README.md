@@ -29,7 +29,7 @@ The two DAC's were tested using a classic 1970's discrete transistor op-amp desi
 [**1976 November Wireless World An Advanced Preamplifier by Douglas Self**](DougSelf1976Preamp) <img src="DougSelf1976Preamp/DSelfPreamp.jpg" width="16" height="16"/> <img src="DougSelf1976Preamp/DSelfPreamp1.jpg" width="16" height="16"/><img src="DougSelf1976Preamp/pcb-layouts.jpg" width="16" height="16"/><br>
 
 <p align="left">
-<img src="images/case2.jpg" width="270" />  
+<img src="images/case2.jpg" width="268" />  
 <img src="images/case4.jpg" width="180" />  
 <img src="images/case5.jpg" width="235" />  
 </p>
