@@ -5,8 +5,8 @@ http://www.douglas-self.com/ampins/library/ampartew.htm
 This is the most musically sounding preamp I have built. The photograph shows the two normalization and tone control PCB's constructed in the middle 1980's, re-housed in a recent (partially) 3d-printed, case. The input level control is at the back of the case. 
 
 <p align="left">
-<img src="DSelfPreamp1.jpg" width="200" />  
-<img src="DSelfPreamp.jpg" width="300" />   
-<img src="pcb-layouts.jpg" width="200" />  	
+<img src="DSelfPreamp1.jpg" width="250" />  
+<img src="DSelfPreamp.jpg" width="350" />   
+<img src="pcb-layouts.jpg" width="250" />  	
 </p>
 	
