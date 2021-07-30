@@ -30,9 +30,9 @@ BCY71 can be substitued with BC560C
 270k x 4
 820k x 2
 -----------------
-25k dual log x 4
-25k dual lin x 2
-100k dual lin x 2
+25k dual log x 2
+25k dual lin x 1
+100k dual lin x 1
 -----------------
 15pF x 2
 30pF x 2
