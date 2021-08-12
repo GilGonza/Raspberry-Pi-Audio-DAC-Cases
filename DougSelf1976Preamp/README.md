@@ -1,4 +1,6 @@
-Copyright 1976 November Wireless World An Advanced Preamplifier Douglas Self
+Copyright 1976 November Wireless World An Advanced Preamplifier by Douglas Self.
+
+[**Two of Doug Self's Audio design books are also recommended here**](https://github.com/joaocarvalhoopen/How_to_learn_modern_electronics)
 
 http://www.douglas-self.com/ampins/library/ampartew.htm
 
