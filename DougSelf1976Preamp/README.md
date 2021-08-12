@@ -1,9 +1,7 @@
-Copyright 1976 November Wireless World An Advanced Preamplifier by Douglas Self.
+Copyright 1976 November Wireless World An Advanced Preamplifier by [**Douglas Self**](http://www.douglas-self.com/ampins/library/ampartew.htm)
 
-Two of Doug Self's Audio design books are also recommended here: 
+Two of Doug Self's Audio Design books are also recommended here on Github: 
 [**How to learn modern electronics**](https://github.com/joaocarvalhoopen/How_to_learn_modern_electronics)
-
-http://www.douglas-self.com/ampins/library/ampartew.htm
 
 This is the most musically sounding preamp I have built. The photograph shows the two normalization and tone control PCB's constructed in the middle 1980's, re-housed in a recent (partially) 3d-printed, case. The input level control is at the back of the case. 
 
