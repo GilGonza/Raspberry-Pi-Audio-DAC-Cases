@@ -11,7 +11,7 @@ This is the most musically sounding preamp I have built. The photograph shows th
 <img src="pcb-layouts.jpg" width="250" />  	
 </p>
 	
-Listening during the past year (2020/2021) to this preamp driving a linear-PSU-powered class-D-amp prompted me to start building a second preamp - the unpopulated pcb have been made and the components obtained. More details are in the [AdvPreAmp2021Build](AdvPreAmp2021Build) folder with also includes the Fritzing design files. (No it is not cool to have to create a schematic, if all that you want is a PCB based on a perfectly good schematic that you already have.) A trick that I use to make the PCB photomasks is to use normal white paper, and after they have been (laser) printed rub some sunflower oil over the print and let it dry for 24 hours.
+Listening during the past year (2020/2021) to this preamp driving a linear-PSU-powered class-D-amp prompted me to start building a second preamp - the unpopulated pcb have been made and the components obtained. More details are in the [AdvPreAmp2021Build](AdvPreAmp2021Build) folder including the Fritzing PCB layout files. (No it is not cool to have to create a schematic, if all that you want is a PCB based on a perfectly good schematic that you already have.) A trick that I use to make the PCB photomasks is to use normal white paper, and after they have been (laser) printed rub some sunflower oil over the print and let it dry for 24 hours.
 
 <p align="left">
 <img src="AdvPreAmp2021Build/pcb1.jpg" width="250" />  
