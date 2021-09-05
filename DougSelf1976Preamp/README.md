@@ -15,8 +15,8 @@ Listening during the past year (2020/2021) to this preamp driving a linear-psu-c
 
 <p align="left">
 <img src="AdvPreAmp2021Build/pcb1.jpg" width="250" />  
-<img src="AdvPreAmp2021Build/AdvPreAmp1_pcb.jpg" width="150" />   
-<img src="AdvPreAmp2021Build/AdvPreAmp2_pcb.jpg" width="150" />  
+<img src="AdvPreAmp2021Build/AdvPreAmp1_pcb.jpg" width="170" />   
+<img src="AdvPreAmp2021Build/AdvPreAmp2_pcb.jpg" width="170" />  
 <img src="AdvPreAmp2021Build/AdvPreAmp3_pcb.jpg" width="100" />  
 </p>
 
