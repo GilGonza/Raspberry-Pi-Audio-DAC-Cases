@@ -20,7 +20,7 @@ Listening during the past year (2020/2021) to this preamp driving a linear-PSU-p
 <img src="AdvPreAmp2021Build/AdvPreAmp3_pcb.jpg" width="100" />  
 </p>
 
-The Tone control boards have been completed and tested:
+The Preamp electronics have been completed - only the case is left to make:
 <p align="left">
-<img src="AdvPreAmp2021Build/ToneControlTest.jpg" width="350" />  
+<img src="AdvPreAmp2021Build/Completed1.jpg" width="350" />  
 </p>
