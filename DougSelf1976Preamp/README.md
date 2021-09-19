@@ -22,7 +22,7 @@ Listening during the past year (2020/2021) to this preamp driving a linear-PSU-p
 
 The Preamp electronics have been completed - only the case is left to make or print:
 <p align="left">
-<img src="AdvPreAmp2021Build/Completed1.jpg" width="350" />  
+<img src="AdvPreAmp2021Build/Completed2.jpg" width="350" />  
 </p>
 
 This will be almost half the size of the 1980's based preamp, and puzzlingly it has a distinctly different sound (but neither better nor worse), than the older preamp. I must still investigate this....
