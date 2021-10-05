@@ -50,5 +50,7 @@ Note:
 3uF x 2
 22uF 16v electrolytic x 2
 --------------------------
+PSU:
+18-0-18 volt 15VA toroidal transformwr and 4700uF 35v x 2 plus 400v 2A bridge rectifier
 
 
