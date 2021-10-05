@@ -51,6 +51,9 @@ Note:
 22uF 16v electrolytic x 2
 --------------------------
 PSU:
-18-0-18 volt 15VA toroidal transformwr and 4700uF 35v x 2 plus 400v 2A bridge rectifier
+18-0-18 volt 15VA toroidal transformwr RSPro 671-8928 https://za.rs-online.com/web/p/toroidal-transformers/6718928/ (1985 re-build)
+15-0-15 volt 15VA toroidal transformwr RSPro-671-9069 https://za.rs-online.com/web/p/toroidal-transformers/6719069/ (2021 new build)
+4700uF 35v x 2 
+400v 2A bridge rectifier
 
 
