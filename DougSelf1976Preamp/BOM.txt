@@ -8,6 +8,8 @@ MPSA06 x 12
 BCY71 (BC560C) x 12
 Note: 
 1. MPSA06 and MPSA56 are still manufactured
+MPSA56 https://www.mantech.co.za/ProductInfo.aspx?Item=14M6921
+MPSA06 https://www.mantech.co.za/ProductInfo.aspx?Item=14M6920
 2. BCY71 can be substituted with BC560C
 3. For Disc Imput Amp add BCY71 (BC560C) x 6 
    And resistors/capacitors as per circuit diagram
