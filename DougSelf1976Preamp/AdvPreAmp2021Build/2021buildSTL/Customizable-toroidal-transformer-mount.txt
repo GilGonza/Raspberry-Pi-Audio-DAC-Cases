@@ -1,5 +1,0 @@
-https://www.thingiverse.com/thing:1457571
-
-Customizable toroidal transformer mount
-
-toroid.scad
